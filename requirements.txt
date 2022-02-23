@@ -1,0 +1,11 @@
+autopep8
+black
+flake8
+ipdb
+pandas
+ipython
+openpyxl
+pyinstaller
+pyinstaller-hooks-contrib
+selenium
+webdriver-manager
